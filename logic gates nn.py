@@ -111,7 +111,7 @@ nn(x1=1,x2=1,w1=20,w2=-20,w3=20,w4=-20,w5=20,w6=20,b1=-10,b2=30,b3=-30)
     
     
 
-## xor gate ##
+## xnor gate ##
 def nn(x1,x2,w1,w2,w3,w4,w5,w6,b1,b2,b3):
     ## input for h1 ##
     h1in = x1*w1+x2*w3+b1

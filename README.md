@@ -1,2 +1,6 @@
 # Logic-gates-in-nueral-network
-all logical gates code in neural network
+AND 
+OR 
+NOR 
+XNOR
+Desire weight to satisfy the Logic gates

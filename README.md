@@ -3,4 +3,4 @@ AND
 OR 
 NOR 
 XNOR
-Desire weight to satisfy the Logic gates
+Desire weights to satisfy the Logic gates
